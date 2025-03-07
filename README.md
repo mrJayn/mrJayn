@@ -6,16 +6,14 @@
     </a>
   -->
 </h1>
-
-<center>
+<div align="center">
     <a href='https://www.linkedin.com/in/michael-jayne/'>
       <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'>
     </a>
     <a href='mailto:m63jayne@gmail.com'>
       <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail Badge'>
     </a>
-</center>
-
+</div>
 <p align="center">A chemical engineer turned developer, looking for opportunities to prove my skills and create useful solutions along the way.</p>
 
 ---
@@ -45,9 +43,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![VS Code](https://img.shields.io/badge/VSCode-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-
----
-
-<br>
-
-Inspired by: [ABU SAID](https://github.com/said7388)
